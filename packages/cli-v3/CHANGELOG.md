@@ -1,5 +1,14 @@
 # trigger.dev
 
+## 3.3.11
+
+### Patch Changes
+
+- Add otel exporter support ([#1602](https://github.com/triggerdotdev/trigger.dev/pull/1602))
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.11`
+  - `@trigger.dev/build@3.3.11`
+
 ## 3.3.10
 
 ### Patch Changes
